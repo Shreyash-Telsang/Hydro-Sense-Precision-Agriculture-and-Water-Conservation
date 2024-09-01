@@ -1,5 +1,8 @@
 # Hydro-Sense-Precision-Agriculture-and-Water-Conservation
 
+![image](https://github.com/user-attachments/assets/da987a8b-5b69-4682-a095-97b8946d417c)
+
+
 The software component integrates these calculations and data collection, providing real-time information to farmers through a user-friendly GUI frontend displayed on an app. Our findings demonstrate the effectiveness of Hydro-Sense in conserving water while ensuring optimal plant growth. Agriculture is made more sustainable and effective by Hydro-Sense, which optimizes crop output while conserving water by regulating the supply of water based on plant requirements.
 
 
